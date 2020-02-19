@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ExperienceController.cs">
+    <Files>
+      <File FileName="Assets/scripts/BackgroundMusicController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/FoodSpawnController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/FoodExpController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/SwipeController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/TrumpyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ExperienceController.cs" Line="152" Column="16" />
+      <File FileName="Assets/scripts/SceneController.cs" Line="1" Column="1" />
+      <File FileName="../squirrel boi 2/Assets/scripts/bulletCode.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/PlayerPrefsController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/SettingsController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
